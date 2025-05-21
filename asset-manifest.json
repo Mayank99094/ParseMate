@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ParseMate/static/css/main.e6c13ad2.css",
+    "main.js": "/ParseMate/static/js/main.b0d4f205.js",
+    "static/js/453.fbce3e53.chunk.js": "/ParseMate/static/js/453.fbce3e53.chunk.js",
+    "index.html": "/ParseMate/index.html",
+    "main.e6c13ad2.css.map": "/ParseMate/static/css/main.e6c13ad2.css.map",
+    "main.b0d4f205.js.map": "/ParseMate/static/js/main.b0d4f205.js.map",
+    "453.fbce3e53.chunk.js.map": "/ParseMate/static/js/453.fbce3e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0d4f205.js"
+  ]
+}
